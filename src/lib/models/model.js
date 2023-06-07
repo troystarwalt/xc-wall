@@ -1,5 +1,5 @@
 import artworks from '../images/artworks'
-import { faker } from '@faker-js/faker';
+import { faker } from '@faker-js/faker/locale/en';
 
 // Add new Pieces here.
 // Add an import under artworks/index.js to the new piece if it is an image that is being uploaded
