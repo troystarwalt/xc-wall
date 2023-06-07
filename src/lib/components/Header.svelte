@@ -1,1 +1,1 @@
-<h1>Welcome</h1>
+<h1>XC Wooster Gallery</h1>
